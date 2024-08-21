@@ -7,7 +7,7 @@ export default function Logo(){
                 src="meulogo.svg"
                 width={64}
                 height={64}
-                style={{padding:4}}     
+                style={{padding:4,zIndex:1 }}     
                 className="hover:transition duration-500 hover:scale-125"
                 alt="Logotipo"
             />
