@@ -1,6 +1,4 @@
 "use client"
-
-
 import React from "react"
 import Logo from "./ui/logo";
 import { Avatar } from "@nextui-org/react";
