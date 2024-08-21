@@ -7,7 +7,7 @@ export default function Hero() {
             <Image 
             src="fundo_hero.jpg"
             alt="fundoHero"  
-            className="flex relative overflow w-[100vw] h-[100vh]"
+            className="flex relative overflow  w-[100vw] h-[100vh]"
             />
             <h1 className="">Olá! Eu sou Állan</h1>
             <p>Estudo para ser engenheiro de front-end. 

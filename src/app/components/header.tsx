@@ -1,10 +1,15 @@
 "use client"
+
+
 import React from "react"
+import Logo from "./ui/logo";
+import { Avatar } from "@nextui-org/react";
 export type NavigationType ={
     name: string;
     href: string;
     id: number
 }
+
 const navigation: NavigationType[]=[
     {name: "Home", href:"#", id:1},
     {name: "Projetos", href:"#", id:1},
@@ -13,10 +18,13 @@ const navigation: NavigationType[]=[
 ];
 export default function Header() {
     return (
-        <header className="bg-green-400">
-            <nav>
-
-            </nav>
-        </header>
+          <div className="bg-green-400">
+            <header>
+                <Logo />
+                <nav>
+                    
+                </nav>
+            </header>
+          </div>      
         )
 };
