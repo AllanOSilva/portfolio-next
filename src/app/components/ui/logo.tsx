@@ -8,7 +8,7 @@ export default function Logo(){
                 width={90}
                 height={90}
                 style={{padding:4,zIndex:1 }}     
-                className="hover:transition duration-500 hover:cursor-pointer hover:scale-125"
+                className="hover:transition duration-500 cursor-pointer hover:scale-125"
                 alt="Logotipo"
             />
         
