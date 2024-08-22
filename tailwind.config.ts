@@ -10,6 +10,16 @@ const config = {
 	],
   prefix: "",
   theme: {
+    creens: {
+      'tablet': '640px', 'tablet1':'641px',
+      // => @media (min-width: 640px) { ... }
+
+      'laptop': '1024px', 'laptop1': '1025px',
+      // => @media (min-width: 1024px) { ... }
+
+      'desktop': '1280px','desktop1': '1281px',
+      // => @media (min-width: 1280px) { ... }
+    },
     container: {
       center: true,
       padding: "2rem",
