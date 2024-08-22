@@ -3,7 +3,7 @@ import React from "react"
 import Logo from "./ui/logo";
 import { AiOutlineMenu,  AiOutlineClose } from "react-icons/ai";
 import { useState } from "react";
-import Rodape from "./rodape";
+
 export default function Header() {
     const [menuOpen, setMenuOpen] = useState(false);
     const handleNav =() =>{
