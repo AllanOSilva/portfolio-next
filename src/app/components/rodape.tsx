@@ -4,7 +4,7 @@ export default function Rodape() {
     return(
         <>
         <footer
-  className="flex flex-col items-center bg-zinc-50 text-center text-surface dark:bg-neutral-700 dark:text-white">
+  className="flex flex-col items-center bg-green-900 text-center text-surface dark:bg-neutral-700 dark:text-white">
   <div className="container px-6 pt-6">
     {/* <!-- Social media icons container --> */}
     <div className="gap-5 mb-6 flex justify-center space-x-2">
@@ -83,9 +83,9 @@ export default function Rodape() {
   </div>
 
   {/* <!--Copyright section--> */}
-  <div className="w-full bg-black/5 p-4 text-center">
-    © 2023 Copyright:
-    <a href="https://tw-elements.com/">TW Elements</a>
+  <div className="w-full bg-black/15 p-4 text-center text-white">
+    © 2024 Copyright:
+    
   </div>
 </footer>
         </>
