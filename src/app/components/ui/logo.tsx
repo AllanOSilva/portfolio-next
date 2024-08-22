@@ -2,7 +2,6 @@ import Image from "next/image";
 
 export default function Logo(){
     return(
-        
             <Image
                 src="meulogo.svg"
                 width={90}
@@ -10,6 +9,7 @@ export default function Logo(){
                 style={{padding:4,zIndex:1 }}     
                 className="hover:transition duration-500 cursor-pointer"
                 alt="Logotipo"
+                priority
             />
         
     )
