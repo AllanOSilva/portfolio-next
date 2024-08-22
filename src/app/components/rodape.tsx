@@ -14,7 +14,7 @@ export default function Rodape() {
         href="https://wa.me/5521970613944"
         target="_blank"
         type="button"
-        className="rounded-full bg-green-500 p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
+        className="rounded-full bg-green-500 p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white hover:bg-green-800"
         data-twe-ripple-init
         data-twe-ripple-color="light">
         <span className="mx-auto [&>svg]:h-5 [&>svg]:w-5">
@@ -30,7 +30,7 @@ export default function Rodape() {
         href="https://www.linkedin.com/in/allan-oliveira-da-silva-065277219"
         target="_blank"
         type="button"
-        className="rounded-full bg-[#0082ca] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
+        className="rounded-full bg-[#0082ca] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white hover:bg-blue-800"
         data-twe-ripple-init
         data-twe-ripple-color="light">
         <span className="mx-auto [&>svg]:h-5 [&>svg]:w-5">
@@ -49,7 +49,7 @@ export default function Rodape() {
         href="https://github.com/AllanOSilva/Projetos"
         target="_blank"
         type="button"
-        className="rounded-full bg-[#333333] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
+        className="rounded-full bg-[#333333] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white hover:bg-gray-500"
         data-twe-ripple-init
         data-twe-ripple-color="light">
         <span className="mx-auto [&>svg]:h-5 [&>svg]:w-5">
@@ -68,7 +68,7 @@ export default function Rodape() {
         href="mailto:aolisil84@gmail.com"
         target="_blank"
         type="button"
-        className="rounded-full bg-[#b62626] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
+        className="rounded-full bg-[#b62626] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white hover:bg-red-900"
         data-twe-ripple-init
         data-twe-ripple-color="light">
         <span className="mx-auto [&>svg]:h-5 [&>svg]:w-5">
