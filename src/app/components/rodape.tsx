@@ -4,11 +4,10 @@ export default function Rodape() {
     return(
         <>
         <footer
-  className="flex flex-col items-center bg-green-900 text-center text-surface dark:bg-neutral-700 dark:text-white">
+  className="flex flex-col items-center bg-green-900 text-center text-surface dark:bg-neutral-700 dark:text-white ">
   <div className="container px-6 pt-6">
     {/* <!-- Social media icons container --> */}
-    <div className="gap-5 mb-6 flex justify-center space-x-2">
-      
+    <div className="gap-5 mb-6 flex justify-center space-x-2 md:gap-20 ">
 {/* link whatsapp */}
       <a
         href="https://wa.me/5521970613944"
