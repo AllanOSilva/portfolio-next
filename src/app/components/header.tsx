@@ -32,8 +32,8 @@ export default function Header() {
             </div>
             <div className={
                 menuOpen
-                ? "fixed-0 top-0 w-[65%] sm:hidden h-screen bg-green-700 text-white p-10 ease-in duration-500" 
-                :"fixed left-[-100%] p-10 ease-in duration-500"
+                ? "fixed-0 top-0 w-[65%] sm:hidden h-screen bg-green-700 text-white p-10 ease-in duration-400" 
+                :"fixed left-[-100%] p-10 ease-in duration-400"
             }
             >
                 <div className="flex w-full items-center justify-center">
