@@ -2,10 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+  background-color: gray;
+}
 html{
   font-family: 'Times New Roman', Times, serif;
 }
-@layer base {
+/* @layer base {
   :root {
     --background: 0 0% 100%;
     --foreground: 20 14.3% 4.1%;
@@ -69,4 +72,4 @@ html{
   body {
     @apply bg-background text-foreground;
   }
-}
+} */

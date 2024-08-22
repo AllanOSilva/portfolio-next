@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@designbycode/tailwindcss-text-stroke": "^1.2.1",
+    "@nextui-org/modal": "^2.0.39",
     "@nextui-org/react": "^2.4.6",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
